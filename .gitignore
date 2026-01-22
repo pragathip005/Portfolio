@@ -1,0 +1,5 @@
+flask_app.py
+function_as_a_service.py
+supabase_object_store.py
+*.jpeg
+*.jpg
